@@ -5,6 +5,12 @@
 
 <a href="/hello">hello World</a>
 
+<form action="/b" method="post">
+    <input value="234234">
+    <input type="file" name="name" >
+    <input type="submit" value="submit">
+</form>
+
 
 </body>
 </html>
